@@ -63,5 +63,10 @@ Create a GUI instead of only console-based interface.
 Add encryption for secure transfers.
 
 Optimize speed for larger files.
+
+
+
+
+
 © 2025 JYOTHI REDDY PULA . All Rights Reserved.  
 This project is not licensed for free use. Contact for permissions.
