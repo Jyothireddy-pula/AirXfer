@@ -33,6 +33,10 @@ Sender transfers the files → receiver buffers them → saves them in Downloads
 
 Hand gestures are used to trigger or control the sending process.
 
+
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
+
 🛠️ Tech Stack
 
 Programming Language: Python
