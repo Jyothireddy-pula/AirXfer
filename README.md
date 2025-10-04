@@ -6,8 +6,8 @@ built with the idea of making file sharing between two computers easier and more
 
 This project combines computer vision (hand gesture recognition) with networking (UDP + TCP sockets) to create a working prototype of “gesture-controlled AirDrop.”
 
-<hr style="border: 1px solid #ccc; margin: 20px 0;">
 
+<hr style="border: none; height: 5px; background-color: #0078D7; border-radius: 5px;">
 
 🔹 Features
 
