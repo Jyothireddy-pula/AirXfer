@@ -75,6 +75,7 @@ Add encryption for secure transfers.
 Optimize speed for larger files.
 
 
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 
 
