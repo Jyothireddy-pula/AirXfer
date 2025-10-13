@@ -64,7 +64,7 @@ But overcoming these gave me a lot of confidence in combining AI + networking.
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 
-🚀 Future Improvements
+🚀 Future Improvements:-
 
 Add more gesture commands (pause/resume transfer, cancel, multiple file selection).
 
